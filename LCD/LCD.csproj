@@ -86,5 +86,14 @@
   <ItemGroup>
     <None Include="Resources\linka.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\V010745_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\V010745.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\V0107451.bmp" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
